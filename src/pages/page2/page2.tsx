@@ -1,6 +1,6 @@
 function Page2() {
     return (
-        <div>
+        <div className="center">
             Page2
         </div>
     );

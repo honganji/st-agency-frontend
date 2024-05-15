@@ -1,6 +1,6 @@
 function Home() {
     return (
-        <div>
+        <div className="center h-screen">
             Home
         </div>
     );
