@@ -1,8 +1,8 @@
+import Title from "../components/title";
+
 function Home() {
     return (
-        <div className="center h-screen">
-            Home
-        </div>
+        <Title title={"Home"}/>
     );
 }
 

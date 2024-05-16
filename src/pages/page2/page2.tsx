@@ -1,8 +1,8 @@
+import Title from "../components/title";
+
 function Page2() {
     return (
-        <div className="center h-screen">
-            Page2
-        </div>
+        <Title title={"Page2"}/>
     );
 }
 
