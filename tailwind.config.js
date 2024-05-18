@@ -8,7 +8,7 @@ module.exports = {
       colors: {
         main: "#240750",
         sub: "gray"
-      }
+      },
     },
   },
   plugins: [],

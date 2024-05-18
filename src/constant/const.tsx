@@ -6,11 +6,11 @@ export const screens: screenInfo[] = [
         title: "Home",
     },
     {
-        path: "/page1",
-        title: "Page1",
+        path: "/service",
+        title: "Service",
     },
     {
-        path: "/page2",
-        title: "Page2",
+        path: "/contact",
+        title: "Contact",
     },
 ];
