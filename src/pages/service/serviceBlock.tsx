@@ -19,12 +19,12 @@ function ServiceBlock({ title }: ServiceBlockProps) {
                     ></div>
                     <span className="hidden sm:inline-block sm:align-middle sm:h-screen" aria-hidden="true">&#8203;</span>
                     <div className="inline-block bg-white rounded-lg text-left overflow-hidden shadow-xl transform transition-all sm:my-8 h-3/4 w-3/4">
-                        <div className="bg-white px-4 pt-5 pb-4 sm:p-6 sm:pb-4">
-                            <div className="mt-3 text-center center sm:mt-0 sm:ml-4 sm:text-left">
+                        <div className="bg-white px-4 pt-5 pb-4 sm:p-6 sm:pb-4  w-full h-full">
+                            <div className="mt-3 text-center center sm:mt-0 sm:text-left  w-full h-full">
                                 <h3 className="text-lg leading-6 font-medium text-gray-900" id="modal-title">
                                     Modal Title
                                 </h3>
-                                <div className="aspect-w-16 aspect-h-9">
+                                <div className="aspect-w-16 aspect-h-9 w-full h-full">
                                     <iframe
                                         className="w-full h-full"
                                         src="https://www.youtube.com/embed/U7Z9DjskOMk"
